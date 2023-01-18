@@ -1,0 +1,2 @@
+# magister
+Raivo magistritöö repositoorium
