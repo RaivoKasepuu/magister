@@ -38,9 +38,9 @@ augmentation_dicts = [
     {'def_name': 'pre_emphasis', 'arg_1': None, 'arg_2': 0.99},
     {'def_name': 'pre_emphasis', 'arg_1': None, 'arg_2': 0.98},
     {'def_name': 'pre_emphasis', 'arg_1': None, 'arg_2': 0.97},
-    {'def_name': 'dynamic_range_compression', 'arg_1': None, 'arg_2': 1},
     {'def_name': 'dynamic_range_compression', 'arg_1': None, 'arg_2': 2},
     {'def_name': 'dynamic_range_compression', 'arg_1': None, 'arg_2': 3},
+    {'def_name': 'dynamic_range_compression', 'arg_1': None, 'arg_2': 4},
 ]
 
 
