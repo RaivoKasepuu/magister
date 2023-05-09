@@ -14,7 +14,7 @@ import torchaudio.transforms as T
 
 
 # Konstandid
-NUM_MFCC = 26
+NUM_MFCC = 13
 NUM_SEGMENTS = 10
 HOP_LENGTH = 512
 SAMPLE_RATE = 22050
